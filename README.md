@@ -6,7 +6,8 @@ Frontend Engineer
 [![Gmail Badge](https://img.shields.io/badge/-azzilenon@gmail.com-2d175f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azzilenon@gmail.com)](mailto:azzilenon@gmail.com)
 
 :man_technologist: I’m currently working at [avanti](https://github.com/avanti) <br/>
-:computer: Javascript, Typescript, ReactJS
+:computer: Javascript, Typescript, ReactJS <br/>
+:seedling: Writing code since 2014
 
 <br/>
 
