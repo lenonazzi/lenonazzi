@@ -8,7 +8,7 @@ Frontend Engineer
 :man_technologist: I’m currently working at [avanti](https://github.com/avanti) <br/>
 :computer: Javascript, Typescript, ReactJS <br/>
 :seedling: Writing code since 2014 <br/>
-:studio_microphone: [Avanti Tech Talk](https://www.youtube.com/watch?v=OmvBCEtfxFo)
+:studio_microphone: [Avanti Tech Talk](https://anchor.fm/avanti-tech-talk)
 
 <br/>
 
