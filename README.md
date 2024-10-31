@@ -5,7 +5,7 @@ Software Engineer
 [![Gmail Badge](https://img.shields.io/badge/-hi@lenonazzi.dev-2d175f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@lenonazzi.dev)](mailto:hi@lenonazzi.dev)
 
 :man_technologist: I’m currently working at [avanti](https://github.com/avanti) <br/>
-:computer: Javascript, Typescript, ReactJS <br/>
+:computer: Typescript, NextJS and React Native <br/>
 :seedling: Writing code since 2014 <br/>
 
 <br/>
